@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @d-jus
+- 👋 Hi, 
 
-I'll complete later... 
+my scientific work concerned the practical application of artificial neural networks in underground mining. Currently, I am developing both the method itself using the Tensor Flow environment, as well as my programming skills, aiming at the highest quality of my work.
 
 <!---
 - 👀 I’m interested in ...
